@@ -1,0 +1,117 @@
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+title: >-
+  HTR Winter School 2023/2024 - Medieval Czech - New Testament of Martin Lupáč
+  (ONB Cod. 3304)
+url: https://github.com/
+authors:
+  - name: Anna
+    surname: Michalcova
+    orcid: 0000-0003-4760-6950
+    roles:
+      - project-manager
+      - quality-control
+  - name: Martina
+    surname: Spevackova
+    orcid: 0000-0002-9357-4614
+    roles:
+      - transcriber
+  - name: Martina
+    surname: Kramaric
+    orcid: 0000-0002-5492-3682
+    roles:
+      - transcriber
+  - name: Jozef
+    surname: Miklos
+    orcid: 0009-0000-9621-713X
+    roles:
+      - transcriber
+  - name: Julie
+    surname: Mizerova
+    orcid: 0009-0005-2153-0531
+    roles:
+      - transcriber
+  - name: Daniel Markus Oliver
+    surname: Katscher
+    orcid: 0009-0008-3475-2522
+    roles:
+      - transcriber
+  - name: Jitka
+    surname: Filipova
+    orcid: 0000-0002-3570-4038
+    roles:
+      - quality-control
+  - name: Eva
+    surname: Pasackova
+    orcid: 0000-0001-7089-7229
+    roles:
+      - transcriber
+  - name: Eliska
+    surname: Penkavova
+    orcid: 0000-0002-5494-8847
+    roles:
+      - transcriber
+  - name: Leon
+    surname: Glaser
+    roles:
+      - transcriber
+  - name: Martina
+    surname: Vassmar
+    roles:
+      - transcriber
+  - name: Klara
+    surname: Vucicova
+    roles:
+      - transcriber
+institutions: []
+description: >-
+  Selection of semi-diplomatic transcribed texts from the New Testament of
+  Martin Lupáč (1440, 320 × 210 mm, Old Czech). Texts were transcribed by the
+  participants of the HTR Winter School 2023/2024 in Vienna:
+
+
+  Julie Mizerová: 1r-5v, Mt 1,1 - Mt 6,16
+
+  Martina Vassmar: 265-270r, Ap
+
+  Martina Spěváčková: 159v-164r, Gl, Epistle to the Galatians
+
+  Martina Kramaric: 66v-71r, L
+
+  Daniel Katscher: 182v-187r, 1Ti
+
+  Eva Pasáčková: 230v-235r, Act
+
+  Leon Glaser: 51v-56r, Mc, L
+
+  Jozef Mikloš: 118r-122v, Preface of Romans, R
+
+  Eliška Pěnkavová: 90r-94v, the beginning of John’s Gospel
+
+  Klára Vučicová: 34r-38v, the beginning of Marc's Gospel
+project-name: HTR Winter School 2023/2024 - Medieval Czech
+language:
+  - ces
+production-software: Transkribus
+automatically-aligned: false
+script:
+  - iso: Latn
+script-type: only-manuscript
+time:
+  notBefore: '1440'
+  notAfter: '1440'
+hands:
+  count: '1'
+  precision: exact
+license:
+  - name: CC-BY 4.0
+    url: https://creativecommons.org/licenses/by/4.0/
+format: Page-XML
+volume:
+  - metric: pages
+    count: 100
+citation-file-link: ./CITATION.cff
+transcription-guidelines: >-
+  The transcription rules were based on semi-diplomatic transcription rules set
+  by PERO OCR and Směrnice pro vydávání starších českých textů by Jiří Daňhelka
+  (https://vokabular.ujc.cas.cz/moduly/edicnipoznamka.aspx?id=DanhelkaSmernice).
+  Abbreviations were tagged and expanded.
